@@ -5,7 +5,7 @@ Contains Testing Documentation
 
 * File should be in markdown format (.md)
 * File Name should consist the date (Eg: 29May2016.md)
-* It should contain the authors name in the end
+* It should contain the authors' name in the end
 
 #Contents
 * Pre-Testing (Aim of Testing (Targets), Battery Status, Start time etc)
