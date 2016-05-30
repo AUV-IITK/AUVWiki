@@ -5,6 +5,7 @@ Contains Testing Documentation
 
 * File should be in markdown format (.md)
 * File Name should consist the date (Eg: 29May2016.md)
+* It should include the links to the Testing Data Collected.
 * It should contain the authors' name in the end
 
 #Contents
