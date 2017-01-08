@@ -1,6 +1,1 @@
-Wiki for AUV-IITK see project wiki i.e. the wiki tab above. 
-
-You can clone it by cloning the wiki of this repo
-
-    git clone git@github.com:AUV-IITK/AUVWiki.git
-    git submodule update --init --recursive 
+Wiki for AUV-IITK at https://github.com/auv-iitk/auvwiki/wiki
